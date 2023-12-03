@@ -1,0 +1,17 @@
+7
+-T
+Z
+T OR -V
+U OR Z
+T OR U OR -V
+T OR -Y OR Z
+U OR -V OR -Y
+6
+-V
+T OR Z
+U OR -V
+-V OR -Y
+T OR U OR Z
+U OR -Y OR Z
+0
+NO

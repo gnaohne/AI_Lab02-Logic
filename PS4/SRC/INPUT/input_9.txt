@@ -1,0 +1,9 @@
+X
+7
+Y
+-Y OR Z
+-Y OR T OR -V
+Y OR U
+Z OR V
+-T OR U
+-U

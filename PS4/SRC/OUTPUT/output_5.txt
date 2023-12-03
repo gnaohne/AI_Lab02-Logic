@@ -1,0 +1,16 @@
+4
+P
+-P OR V
+-O OR Q OR V
+-P OR Q OR U
+6
+V
+-O OR V
+-P OR U
+Q OR U
+Q OR V
+-O OR Q OR U
+1
+-O OR U
+0
+NO

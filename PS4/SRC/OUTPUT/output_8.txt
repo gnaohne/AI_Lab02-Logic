@@ -1,0 +1,23 @@
+5
+P
+-V
+-P OR V
+-O OR Q OR V
+-P OR Q OR U
+9
+-P
+V
+-O OR Q
+-O OR V
+-P OR Q
+-P OR U
+Q OR U
+Q OR V
+-O OR Q OR U
+5
+{}
+-O
+Q
+U
+-O OR U
+YES

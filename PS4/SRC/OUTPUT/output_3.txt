@@ -1,0 +1,45 @@
+9
+P
+-V
+O OR U
+P OR V
+P OR -V
+-P OR V
+-O OR Q OR V
+-P OR Q OR U
+Q OR -U OR V
+18
+-P
+V
+O OR P
+-O OR Q
+-O OR V
+P OR U
+-P OR Q
+-P OR U
+Q OR U
+Q OR -U
+Q OR V
+-U OR V
+O OR Q OR V
+-O OR P OR Q
+-O OR Q OR U
+P OR Q OR -U
+Q OR U OR V
+Q OR U OR -V
+14
+{}
+-O
+Q
+U
+O OR Q
+-O OR U
+P OR Q
+Q OR -V
+U OR V
+O OR P OR Q
+O OR Q OR U
+P OR Q OR U
+P OR Q OR V
+P OR Q OR -V
+YES
